@@ -36,6 +36,7 @@ int main (){
         number_customer = number_customer -1;
 
     }
+    return 0;
 
 
 }
